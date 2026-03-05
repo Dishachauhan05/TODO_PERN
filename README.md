@@ -18,7 +18,6 @@ The main objective of this project is to:
 
 Build a complete full-stack web application
 
-
 Understand RESTful API development.
 
 Connect frontend with backend
